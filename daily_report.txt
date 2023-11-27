@@ -1,0 +1,21 @@
+Daily Report
+
+Private Vehicles:
+Vehicle Number: tn72
+Entry Time: Mon Nov 27 17:08:28 2023
+
+Exit Time: Mon Nov 27 17:08:58 2023
+
+
+Vehicle Number: tn
+Entry Time: Mon Nov 27 17:08:38 2023
+
+Exit Time: Mon Nov 27 17:09:03 2023
+
+
+Vehicle Number: tn84
+Entry Time: Mon Nov 27 17:08:49 2023
+
+Status: Inside
+
+
